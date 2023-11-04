@@ -30,7 +30,7 @@ public class Humain {
     }
 
     public void boire() {
-        parler("Mmmm, un bon verre de " + boissonFavorite + " ! GLOUPS !");
+        parler("Mmmm, un bon verre de " + boissonFavorite + "! GLOUPS!");
     }
 
     
